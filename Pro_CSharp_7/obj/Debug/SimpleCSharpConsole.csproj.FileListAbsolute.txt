@@ -1,0 +1,6 @@
+C:\Users\Sean\Source\Repos\Pro_CSharp_7\Pro_CSharp_7\bin\Debug\Pro_CSharp_7.exe.config
+C:\Users\Sean\Source\Repos\Pro_CSharp_7\Pro_CSharp_7\bin\Debug\Pro_CSharp_7.exe
+C:\Users\Sean\Source\Repos\Pro_CSharp_7\Pro_CSharp_7\bin\Debug\Pro_CSharp_7.pdb
+C:\Users\Sean\Source\Repos\Pro_CSharp_7\Pro_CSharp_7\obj\Debug\Pro_CSharp_7.exe
+C:\Users\Sean\Source\Repos\Pro_CSharp_7\Pro_CSharp_7\obj\Debug\Pro_CSharp_7.pdb
+C:\Users\Sean\Source\Repos\Pro_CSharp_7\Pro_CSharp_7\obj\Debug\SimpleCSharpConsole.csprojAssemblyReference.cache
